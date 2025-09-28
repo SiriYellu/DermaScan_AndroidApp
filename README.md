@@ -81,4 +81,12 @@ We gratefully acknowledge the support of **Kennesaw State University**, our advi
 👤 **Andrew Bala Abhilash Polisetty**  
 📩 [andrewbala99@gmail.com](mailto:andrewbala99@gmail.com)  
 🔗 [LinkedIn](#) | [GitHub](#)  
+
+##WEBSITE FLOW:
+<img width="1760" height="797" alt="image" src="https://github.com/user-attachments/assets/a58ed232-c084-465e-9bda-329f72336783" />
+<img width="1960" height="1013" alt="image" src="https://github.com/user-attachments/assets/a246c249-0284-42d1-9789-d129e9c67640" />
+<img width="1960" height="1013" alt="image" src="https://github.com/user-attachments/assets/bf051a99-a233-4e98-b4b7-9b8ea0faf235" />
+<img width="1960" height="1013" alt="image" src="https://github.com/user-attachments/assets/c6ed7908-8735-4ebf-a917-2207c94eabd4" />
+
+
 <img width="1205" height="609" alt="Screenshot 2025-09-28 114520" src="https://github.com/user-attachments/assets/b4b9e88d-1ad5-4639-8a25-92236e590458" />
