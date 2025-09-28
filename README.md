@@ -40,6 +40,13 @@ A short video demo will be available soon.
 https://github.com/user-attachments/assets/8217098c-5270-4e6d-b84f-bd699282ea4e
 
 ---
+## 📑 Project Presentation  
+
+For a more detailed explanation of the project, refer to the presentation file included in this repository:  
+
+- **[PPT.pptx](PPT.pptx)**  
+
+This presentation provides a deeper dive into the methodology, architecture, experimental results, and key highlights of the **DermaScan Android App** website .  
 
 ## 📊 Research Highlights  
 
