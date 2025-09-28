@@ -37,7 +37,13 @@ Then extract them with a single command in your terminal:  unzip SCapp_split.zip
 
 A short video demo will be available soon.  
 📂 Sample: `App in My Phone`  
-https://github.com/user-attachments/assets/8217098c-5270-4e6d-b84f-bd699282ea4e
+https://github.com/user-attachments/assets/8
+
+https://github.com/user-attachments/assets/d005c485-7665-4cf0-973f-d58d9f59f5d1
+
+
+
+
 
 ---
 ## 📑 Project Presentation  
