@@ -74,3 +74,4 @@ We gratefully acknowledge the support of **Kennesaw State University**, our advi
 📩 [andrewbala99@gmail.com](mailto:andrewbala99@gmail.com)  
 🔗 [LinkedIn](#) | [GitHub](#)  
 <img width="1205" height="609" alt="Screenshot 2025-09-28 114520" src="https://github.com/user-attachments/assets/b4b9e88d-1ad5-4639-8a25-92236e590458" />
+<img width="1174" height="525" alt="Screenshot 2025-09-28 114723" src="https://github.com/user-attachments/assets/3191d0c6-d124-4436-82a1-7b6b7dd49059" />
