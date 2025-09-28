@@ -26,16 +26,17 @@
 The latest **app source** and **model files** are available in the [GitHub Releases](../../releases) section.  
 Download both parts:  
 
-- `SCapp_split.zip`  
-- `SCapp_split.z01`  
+- `SCapp_split.zip`    
 
 Then extract them with a single command in your terminal:  unzip SCapp_split.zip
 
 ---
 ## 🎥 Demo  
 
+
 A short video demo will be available soon.  
-📂 Sample: `VIDEO-2025-04-22-15-00-28.mov`  
+📂 Sample: `App in My Phone`  
+https://github.com/user-attachments/assets/8217098c-5270-4e6d-b84f-bd699282ea4e
 
 ---
 
